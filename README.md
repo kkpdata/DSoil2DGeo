@@ -8,7 +8,7 @@ De tool DSoil2DGeo laat gebruikers informatie vanuit D-Soilmodel naar een D-Geos
 
 # Installer
 
-Een installer kan worden gedownload bij de Release DSoil2DGeo-installer v2.0.5 (https://github.com/kkpdata/Datatools/releases/tag/DSoil2DGeo)
+Een installer kan worden gedownload bij de Release DSoil2DGeo-installer v2.0.5 (https://github.com/kkpdata/DSoil2DGeo/releases/tag/2.0.5)
 
 # Gebruik en functionaliteit
 
