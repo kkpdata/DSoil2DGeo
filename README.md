@@ -32,4 +32,3 @@ Versie 2.05, november 2018.
 
 # Contactpersoon
 [Iris van de Kerk](https://github.com/orgs/kkpdata/people/IvdK), (Iris.vande.kerk@rws.nl) [Rijkswaterstaat-WVL](https://www.rijkswaterstaat.nl/over-ons/onze-organisatie/organisatiestructuur/water-verkeer-en-leefomgeving/index.aspx)
-[Harm Rinkel](harm.rinkel@rws.nl) [Rijkswaterstaat-WVL](https://www.rijkswaterstaat.nl/over-ons/onze-organisatie/organisatiestructuur/water-verkeer-en-leefomgeving/index.aspx)
